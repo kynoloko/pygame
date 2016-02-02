@@ -37,7 +37,7 @@ def main():
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 salir=True
-            if event.type == pygame.MOUSEBUTTONDOWN:
+            if event.type == pygame.MOUSEMOTION:
                  target=event.pos
 
 
