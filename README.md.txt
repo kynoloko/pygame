@@ -1,1 +1,1 @@
-#esto es un juego e pygame
+﻿hola este es unn juego de python
